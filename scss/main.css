@@ -1,0 +1,118 @@
+.navbar-brand {
+  color: orange;
+  font-size: 20px;
+}
+
+.navbar-brand img {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar-brand h5 {
+  color: #df6b20;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.active {
+  color: #df6b20;
+}
+
+a {
+  color: black;
+}
+
+.header .container {
+  border-bottom: 2px solid whitesmoke;
+}
+
+.right {
+  font-size: 2rem;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+h5 {
+  color: #00ccff;
+}
+
+.card-body {
+  background-color: white;
+}
+
+.card-body h5, .card-body p {
+  margin-left: -20px;
+}
+
+h4 {
+  color: black;
+  font-weight: 300;
+}
+
+strong {
+  -webkit-columns: #df6b20;
+          columns: #df6b20;
+}
+
+span {
+  color: #df6b20;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.line {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.follow {
+  font-size: 2rem;
+}
+
+.box {
+  background-color: #df6b20;
+  top: -150px;
+  width: 300px;
+  height: 300px;
+  margin-top: -250px;
+}
+
+.box h4 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.box h4 span {
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.box_main {
+  margin-top: -50px;
+}
+
+.icon div {
+  border: 1px solid #fff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.icon div i {
+  margin-top: 12px;
+  color: #fff;
+  font-size: 25px;
+}
+
+.icon div i:hover {
+  color: #00ccff;
+}
+/*# sourceMappingURL=main.css.map */

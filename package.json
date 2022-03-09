@@ -1,0 +1,11 @@
+{
+  "name": "vensol_assignment",
+  "version": "1.0.0",
+  "description": "Assignment From Visole Using Bootsrap & Scss",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan",
+  "license": "ISC"
+}

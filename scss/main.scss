@@ -1,0 +1,123 @@
+$cmpny_color : #df6b20;
+$datacolor : #00ccff;
+
+.navbar-brand{ 
+    color: orange; 
+    font-size: 20px;
+
+    img{
+        width: 50px;
+        height: 50px;
+    }
+
+    h5{ color: $cmpny_color;
+    font-weight: bold;
+    font-size: 2rem;
+}
+}
+ul{
+    list-style-type: none;
+}
+.active{
+    color: $cmpny_color;
+}
+a{
+    color: black;
+}
+
+.header{
+    .container{
+        border-bottom: 2px solid whitesmoke;
+    }
+
+    }
+    .right{
+        font-size: 2rem;
+        
+    }
+
+     .name{
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+        h5{
+            color: $datacolor;
+        }
+
+
+
+
+
+
+        .card-body{
+            background-color: white;
+            
+            h5, p{
+                margin-left: -20px;
+            }
+        }
+
+        h4{
+            color: black;
+            font-weight: 300;
+        }
+        strong{
+            columns: $cmpny_color;
+        }
+    span{
+            color: $cmpny_color;
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+        .line{
+            width: 100%;
+            border: 1px solid black;
+            
+        }
+        .follow{
+            font-size: 2rem;
+        }
+        .box{
+            background-color: $cmpny_color;
+            top: -150px;
+            width: 300px;
+            height: 300px;
+            margin-top: -250px;
+            
+            h4{
+                font-size: 1.5rem;
+                font-weight: bold;
+                span{
+                    font-size: 1.5rem;
+                    font-weight: normal;
+                }
+            }
+        }
+        .box_main{
+            margin-top: -50px;
+        }
+        .icon{
+            div{
+                border: 1px solid #fff;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                text-align: center;
+                i{
+                    margin-top: 12px;
+                    color: #fff;
+                    font-size: 25px;
+                    &:hover{
+
+                        color: #00ccff;
+                    }
+                    }
+                    
+                    
+                }
+                
+           
+        }
+        
+    
+
